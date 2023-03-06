@@ -19,6 +19,6 @@ public class Alumno implements Serializable {
     private String nombre;
     private String telefono;
     private String email;
-    private double ad;
-    private double di;
+    private Double ad;
+    private Double di;
 }
