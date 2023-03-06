@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="186f9a12-4645-45e8-ad93-3cb940f17127" name="Changes" comment="Añadidas dependencias al fichero POM: ObjectDB, Javax.Persistence y Lombok.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/adolfosalado/EntityManagerFactoryUtil.java" afterDir="false" />
+    <list default="true" id="186f9a12-4645-45e8-ad93-3cb940f17127" name="Changes" comment="Creada clase EntityManagerFactoryUtil">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/adolfosalado/AlumnoDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678095453998</updated>
-      <workItem from="1678095455643" duration="553000" />
+      <workItem from="1678095455643" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="Añadidas dependencias al fichero POM: ObjectDB, Javax.Persistence y Lombok.">
       <created>1678095667755</created>
@@ -88,15 +88,42 @@
       <option name="project" value="LOCAL" />
       <updated>1678095667755</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creada clase Alumno">
+      <created>1678096032213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678096032213</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creada clase EntityManagerFactoryUtil">
+      <created>1678096053523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678096053523</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Añadidas dependencias al fichero POM: ObjectDB, Javax.Persistence y Lombok." />
-    <option name="LAST_COMMIT_MESSAGE" value="Añadidas dependencias al fichero POM: ObjectDB, Javax.Persistence y Lombok." />
+    <MESSAGE value="Creada clase Alumno" />
+    <MESSAGE value="Creada clase EntityManagerFactoryUtil" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creada clase EntityManagerFactoryUtil" />
   </component>
 </project>
